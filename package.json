@@ -1,0 +1,18 @@
+{
+  "name": "41scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Triple Score Today ◄ Get Your FREE Credit Score Triple Score Today, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Triple Score Today",
+    "a good credit score",
+    "758 credit score",
+    "credit score 950",
+    "with a credit score of 800"
+  ],
+  "repository": "https://github.com/truelestor/41scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
